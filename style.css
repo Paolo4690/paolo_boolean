@@ -1,0 +1,89 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: 'Quicksand', sans-serif;
+}
+
+#contenitore{
+  width: 1000px;
+  margin: auto;
+  margin-top: 20px;
+  border-radius: 20px;
+  padding-bottom: 50px;
+  background-color: rgba(0,0,0,0.5);
+}
+
+.logo{
+  width: 200px;
+  padding-top: 80px;
+  display: block;
+  margin: auto;
+  color: #00dd00;
+}
+
+#scritta-logo{
+  width: 100%;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  text-align: center;
+  color: #00dd00;
+}
+
+nav{
+  margin: 10px 100px 0px 100px;
+}
+ #contenitore-menu{
+   background-color: #00dd00;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   text-align: center;
+ }
+
+button{
+  font-size: 11px;
+}
+
+main{
+  margin: 0px 100px 0px 100px;
+  color: white;
+}
+
+.tipologia{
+  width: 100%;
+  margin-top: 30px;
+}
+
+.monopattino{
+  font-size: 20px;
+}
+
+.luogo{
+  font-size: 13px;
+}
+
+#carica1{
+  width: 35%;
+  height: 25px;
+  border-radius: 5px;
+  background-color: orange;
+  margin-top: 5px;
+}
+
+
+#carica2{
+  width: 75%;
+  height: 25px;
+  border-radius: 5px;
+  background-color: #00dd00;
+  margin-top: 5px;
+}
+
+
+#carica3{
+  width: 15%;
+  height: 25px;
+  border-radius: 5px;
+  background-color: red;
+  margin-top: 5px;
+}
